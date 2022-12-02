@@ -8,3 +8,8 @@ body {
 a:link, a:visited, a:hover, a:active {
     color: rgb(115, 135, 171);
 }
+
+#name {
+    font-size: large;
+    color: rgb(55, 55, 55);
+}
