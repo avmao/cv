@@ -10,6 +10,10 @@ a:link, a:visited, a:hover, a:active {
 }
 
 #name {
-    font-size: 24px;
+    font-size: 36px;
     color: rgb(55, 55, 55);
+}
+
+hr {
+    color:rgb(176, 176, 176);
 }
